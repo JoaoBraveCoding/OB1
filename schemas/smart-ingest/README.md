@@ -1,5 +1,9 @@
 # Smart Ingest Pipeline Tables
 
+![Community Contribution](https://img.shields.io/badge/OB1_COMMUNITY-Approved_Contribution-2ea44f?style=for-the-badge&logo=github)
+
+**Created by [@alanshurafa](https://github.com/alanshurafa)**
+
 > Adds pipeline tables for tracking bulk text ingestion through the extract, deduplicate, and execute lifecycle.
 
 ## What It Does
